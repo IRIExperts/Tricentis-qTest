@@ -12,10 +12,7 @@ We are running this initiative to study and explore what qTest API supports and 
 This repository is just a public page and we would **not publish** source code at this stage, but may publish samples, snippets and our learnings on the journey.
 
 
-## Update 1
-[Login to qTest API](https://qtest.dev.tricentis.com/#/login/postAccessToken)
-
-### Description
+### [Login to qTest API](https://qtest.dev.tricentis.com/#/login/postAccessToken)
 The login API endpoint is used for authenticating users. It allows clients to send user credentials (such as username and password) to the server for verification.
 
 ### Request
@@ -40,6 +37,7 @@ The login API endpoint is used for authenticating users. It allows clients to se
 - **Headers:**
   - `Content-Type: application/json`
   - `Authorisation: Bearer <access token >`
+
 
 
 
