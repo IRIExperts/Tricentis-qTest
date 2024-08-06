@@ -27,6 +27,8 @@ Migration approach is similar to “Extract, Transform & Load” approach wherei
 *	Target tool APIs are leveraged to Load the mapped data into the tool repository
 
 Note: Migration, ideally, is done to Load artifacts only once and post migration, the Target Tool / Platform (in our case, qTest) is used to develop any new artifacts.
+
+![migration approach](https://github.com/IRIExperts/Tricentis-qTest/blob/main/1.png "migration approach")
  
 
 The migration approach generally involves below phases based on the complexity and overall scope of migration project:
@@ -61,6 +63,6 @@ Below is IRI’s view from thought leadership perspective around migrations:
 * Plug & Play Platform
 * GenAI Capabilities
 
- 
+ ![migration approach](https://github.com/IRIExperts/Tricentis-qTest/blob/main/2.png "migration approach")
 
 We are open towards getting engaged with any Enterprise Migration opportunities and leverage our expertise to assist organizations to transition towards qTest in a seamless and effective manner.
